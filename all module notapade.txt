@@ -1,0 +1,65 @@
+Module 1) Personal Information
+•	Briefly introduce yourself: name, educational background, and current status
+(student or professional).
+•	Mention key personality traits, such as your creativity, analytical skills, or passion for
+  	problem-solving.
+•	Explain your interest in technology and why you chose this career path.
+Ans: 
+Hello sir/ma’am, good morning
+Thank you for giving this Opportunity.
+My name is Bhavesh Parmar from Anand.i did completed my B.E from b.v.m engineering collage from vv nagar. Also, I did complete my diploma from B and B Institute of technology.
+I have 3 years of experience in Billing Associate of US healthcare at My Office Answer.
+Currently I have doing internship in ReactJS Developer in Tops Technologies from Baroda.
+I have skilled in reactjs and Javascript.
+•	I have a positive attitude and always look forward to learning new things.
+•	I am very interested in ReactJS framework for creating web development. this technology is providing easy and fast website to content.
+
+
+
+
+
+
+
+
+Module 2) Technology
+● Discuss plans for upgrading your technology skills.
+● Mention any relevant courses, certifications, or resources you are pursuing.
+● Share your approach to continuous learning and professional development.
+Ans: ReactJS
+•	ReactJS is an open-source JavaScript library primarily used for building user interfaces (UIs) for web applications. Developed by Facebook, it provides a component-based architecture, allowing developers to create reusable UI components and manage their state efficiently.
+•	Currently AI(Artificial Intelligence) is very trending technology to provide Automatic handle machine and software or many things. So in ReactJS with AI is very useful things for provide good and more easy and more beneficial technology.
+Currently I have doing internship in ReactJS Developer in Tops Technologies.
+I have also completed Internship in my collage project of
+ ‘Predict Real Estate Price’ from Ahmedabad.
+Now my future plan is to learn more in reactjs with best of hard work.
+
+
+
+
+
+
+
+Module 3) Projects
+● Describe a key project you have worked on or are currently working on.
+● Explain the technologies used, the scope of the project, and its objectives.
+● Highlight the challenges faced and how you addressed them, showcasing your
+problem solving skills.
+Ans:
+I am currently working on a project to develop a new Shopping site platform using React. The goal of the project is to create a more user-friendly and engaging experience than existing platforms.
+The platform will be built using a component-based architecture, which will make it easy to add new features and updates with products. I am also using a variety of React libraries and tools to help me with the development process.
+One of the challenges I have faced so far is designing a user interface that is both visually appealing and easy to use. I have been working closely with a team of designers to create a UI that is both functional and stylish.
+Another challenge has been integrating the platform with various third-party services, such as User login and payment processing. I have been working with the API documentation for these services to ensure that the integrations are seamless and secure.
+Overall, I am very excited about the progress I have made on this project so far. I am confident that the platform will be a success, and I look forward to launching it to the public in the near future.
+
+
+
+
+Module 4) HR Questions
+● Outline your career goals and where you see yourself in the next few years.
+● Detail the roles and industries you are interested in.
+● Highlight specific goals or milestones you aim to achieve.
+Ans: 
+•	My career goal is to get a job with reactjs development in IT Industry to through my skills and knowledge.
+After few years I can see myself as I want to improve my skills in reactjs, and take on more responsibilities, working with my team to reach our goals.
+•	My Interest of area is doing job in IT industry as good web developer or work in reactjs development.
+•	My Specific goal is to get the job and achieve more respectable for successful IT engineer in my life. Work hard for my family.
